@@ -6,8 +6,6 @@
 
 This repository contains the SafePay implementation which I submitted because I encountered a major unresolved issue while working on the original Hepatitis B (HepaSense) project. SafePay is a complete, working project that demonstrates data preprocessing, modeling, evaluation, and a Streamlit interface for predicting fraud risk.
 
-**time taken to complete credit fraud detetction (SafePaY) => 3 days
-**time taken to complete hepatitis b (HepaSense) => month and half 
 ---
 
 ## Why SafePay was submitted instead of HepaSense

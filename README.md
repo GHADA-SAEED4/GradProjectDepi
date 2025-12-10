@@ -14,6 +14,7 @@ This repository contains the SafePay implementation which I submitted because I 
 - Due to time constraints and the need to deliver a complete, testable submission, I pivoted and completed SafePay which is fully functional and documented.
 
 **Note:** Work on HepaSense continues separately (we sumbmited the cv and ml of the hepatitis b) ;
+link of repo of hepasense( https://github.com/omarsalama4/DEPI-Virus-B )
 
 ---
 
